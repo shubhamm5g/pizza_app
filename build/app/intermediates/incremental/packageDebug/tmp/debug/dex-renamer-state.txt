@@ -1,0 +1,4 @@
+#Tue Feb 06 21:42:33 IST 2024
+base.0=/Users/shubhammaurya/Documents/flutter_study/pizza_app/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
